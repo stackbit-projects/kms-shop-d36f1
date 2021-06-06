@@ -46,3 +46,4 @@ fields:
     required: true
 pages:
 - src/pages/index.md
+- src/pages/index.md
